@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-<img height="180em" src = ![selffish234's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=selffish234&layout=compact)>
-<img height="180em" src = ![selffish234's GitHub stats](https://github-readme-stats.vercel.app/api?username=selffish234&rank_icon=github)>
+<img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=selffish234&layout=compact">
+<img height="180em" src = "https://github-readme-stats.vercel.app/api?username=selffish234&rank_icon=github">
 </p>
