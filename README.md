@@ -19,5 +19,6 @@
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <p>
-
+<img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=selffish234&layout=compact">
+<img height="180em" src = "https://github-readme-stats.vercel.app/api?username=selffish234&rank_icon=github">
 </p>
