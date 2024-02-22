@@ -1,4 +1,4 @@
-### Seojoon Kim 👽
+### Seojoon Kim
 
 #### I learned...
 
