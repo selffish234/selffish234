@@ -17,6 +17,9 @@
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+#### Link...
+![Naver](https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=FFFFFF&link=https://blog.naver.com/grupin)
+![Velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@selffish234)
 <p>
 <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=selffish234&layout=compact">
 <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=selffish234&rank_icon=github">
