@@ -18,6 +18,10 @@
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 #### Link...
+<a href="https://blog.naver.com/grupin"><img src = "https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=FFFFFF"/></a>
+
+<a href="https://velog.io/@selffish234"><img src = "https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white"/></a>
+
 ![Naver](https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=FFFFFF&link=https://blog.naver.com/grupin)
 ![Velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@selffish234)
 <p>
