@@ -15,7 +15,6 @@
 
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
 #### Link...
 <a href="https://blog.naver.com/grupin"><img src = "https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=FFFFFF"/></a>
