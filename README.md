@@ -19,7 +19,7 @@
 #### Link...
 <a href="https://velog.io/@selffish234"><img src = "https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://blog.naver.com/grupin"><img src = "https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=FFFFFF"/></a>
-<p align="center">
+<p>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selffish234&layout=compact">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=selffish234&rank_icon=github">
 </p>
