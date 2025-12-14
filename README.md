@@ -18,6 +18,6 @@
 #### Link...
 <a href="https://velog.io/@selffish234"><img src = "https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white"/></a>
 <p>
-  <img height="180" src="https://github-readme-stats-git-master-selffish234s-projects.vercel.app/api/top-langs/?username=selffish234&layout=compact">
-  <img height="180" src="https://github-readme-stats-git-master-selffish234s-projects.vercel.app/api?username=selffish234&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api?username=selffish234&show_icons=true&locale=kr" height="180px" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selffish234&layout=compact&locale=kr" height="180px" alt="Top Langs" />
 </p>
